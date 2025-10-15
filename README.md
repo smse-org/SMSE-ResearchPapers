@@ -1,7 +1,7 @@
 # SMSE-ResearchPapers
 
 📄 **View all research papers and documents here:**  
-👉 [https://smse-org.github.io/SMSE-ResearchPapers/](https://smse-org.github.io/SMSE-ResearchPapers/)
+👉 [https://smse-org.github.io/SMSE-ResearchPapers/](https://smse-org.github.io/SMSE-Research_Papers/)
 
 ---
 
